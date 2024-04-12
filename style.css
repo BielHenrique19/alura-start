@@ -1,0 +1,21 @@
+body{
+    background-color: #0479af;
+    color: #ffffff;
+}
+
+.cabeçalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+   margin: 0 16px;
+}
+
+.logo{
+    width: 25%;
+}
+
