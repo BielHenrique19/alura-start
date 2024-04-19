@@ -1,21 +1,25 @@
 body{
-    background-color: #0479af;
+    background-color: #0661f3;
     color: #ffffff;
 }
 
 .cabeçalho{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-   
+    align-items: center;  
+    padding: 24px;
 }
 
-.cabecalho-lista-item{
+.cabeçalho-lista-item{
     display: inline-block;
    margin: 0 16px;
+   font-size: 24px;
 }
 
 .logo{
     width: 25%;
 }
 
+.escola-img{
+    width: 40%;
+}
