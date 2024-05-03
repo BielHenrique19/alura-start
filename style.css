@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 body{
     background-color: #0661f3;
     color: #ffffff;
@@ -21,10 +26,19 @@ body{
 }
 
 .escola-img{
-    width: 40%;
+    width: 30%;
 }
 
 .escola{
-    
-    background-image: linear-gradient(#0661f3, #ffffff)
+    background-image: linear-gradient(#0661f3, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
 }
