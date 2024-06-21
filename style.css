@@ -46,3 +46,21 @@ body{
 .estudante-imagem{
     width: 120px;
 }
+.estudante-icone{
+    width: 18px;
+    color: white;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 24px 0;
+}
+
+.estudante-titulo{
+    text-align: center;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns:  16% 16% 16% 16% 16% 16%;
+}
